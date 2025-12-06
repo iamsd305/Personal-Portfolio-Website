@@ -17,7 +17,8 @@ I wanted something minimal, easy to navigate, and responsive across devices. Whe
 🛠️ Tech Used
 
 This site is built using simple and reliable technologies:
-HTML5,  
+HTML5, 
+
 CSS3,
 JavaScript,
 Bootstrap / Custom CSS,
