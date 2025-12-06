@@ -18,7 +18,6 @@ I wanted something minimal, easy to navigate, and responsive across devices. Whe
 
 This site is built using simple and reliable technologies:
 HTML5, 
-
 CSS3,
 JavaScript,
 Bootstrap / Custom CSS,
@@ -26,7 +25,8 @@ Hosted on Netlify.
 
 No heavy frameworks here — just clean structure and design.
 
-📁 What’s Inside
+📁 What’s Inside:
+
 🏠 Home:
 A short intro about me and what I do.
 👨‍💻 About Me:
