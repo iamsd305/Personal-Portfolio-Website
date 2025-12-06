@@ -1,5 +1,6 @@
 # Personal-Portfolio-Website
 A simple and responsive personal portfolio website built using HTML, CSS, and JavaScript.
+
 🌐 My Personal Portfolio – Sudhanshu Ranjan
 
 Welcome to the GitHub repo for my personal portfolio website!
@@ -16,7 +17,7 @@ I wanted something minimal, easy to navigate, and responsive across devices. Whe
 🛠️ Tech Used
 
 This site is built using simple and reliable technologies:
-HTML5,
+HTML5,  
 CSS3,
 JavaScript,
 Bootstrap / Custom CSS,
