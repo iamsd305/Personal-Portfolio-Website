@@ -16,44 +16,44 @@ I wanted something minimal, easy to navigate, and responsive across devices. Whe
 🛠️ Tech Used
 
 This site is built using simple and reliable technologies:
-HTML5
-CSS3
-JavaScript
-Bootstrap / Custom CSS
-Hosted on Netlify
+HTML5,
+CSS3,
+JavaScript,
+Bootstrap / Custom CSS,
+Hosted on Netlify.
 
 No heavy frameworks here — just clean structure and design.
 
 📁 What’s Inside
-🏠 Home
+🏠 Home:
 A short intro about me and what I do.
-👨‍💻 About Me
+👨‍💻 About Me:
 A quick look at my background and what drives me.
-💼 Experience
+💼 Experience:
 My internship and other work-related experience.
-🎓 Education
+🎓 Education:
 Where I’ve studied and what I’m pursuing right now.
-🧰 Skills
+🧰 Skills:
 A neatly listed set of technical skills—languages, tools, frameworks.
-📜 Certificates
+📜 Certificates:
 Some of the certifications I’ve completed over time.
-📬 Contact
+📬 Contact:
 How you can reach me or connect with me online.
 
-🚧 Things I Plan to Add Soon
-This portfolio will keep growing. Here’s what I’m planning next:
-A proper Projects section with GitHub links
-Better responsiveness and smoother UI improvements
-A Download Resume button
-Possibly a dark mode toggle (because why not 😄)
+🚧 Things I Plan to Add Soon:
+This portfolio will keep growing.
+A proper Projects section with GitHub links,
+Better responsiveness and smoother UI improvements,
+A Download Resume button,
+Possibly a dark mode toggle (because why not 😄).
 
 >>There more than what it looks in these files for your convenience if you wish to try more for yourself.
 
-🤝 Feedback
+🤝 Feedback:
 This is a personal project, but I’m always open to ideas or improvements.
 If you find something helpful, want to suggest changes, or just want to say hi — feel free to open an issue or reach out!
 
-📧 Contact Me
+📧 Contact Me:
 Email: ishuraj305@gmail.com
 LinkedIn: https://www.linkedin.com/in/sudhanshu305
 GitHub: https://github.com/iamsd305
